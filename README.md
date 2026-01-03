@@ -1,10 +1,8 @@
 # CSE721-Crypto-Tool
 
-Project scaffold with separate parts for coursework.
+This repository contails a encryption and decryption code that solves Caesar Cipher , Affine Cipher , PlayFair Cipher and Hill Cipher(2*2).Also has a solution of the known plaintext attack of the Hill Cipher.
 
-## Structure
-- src/part1_tool.cpp: placeholder for Part 1 tool (renamed from Final Part 01.cpp)
-- src/part2_hill_cracker.cpp: placeholder for Part 2 Hill cipher cracker (renamed from Final Part 02.cpp)
-- src/main.cpp: optional master menu entry point
-- screenshots/: place screenshots here
-- REPORT.pdf: Detailed project Report
+# Tools
+- C++ Programming Language
+- CodeBlocks 25.03
+- Console Application
